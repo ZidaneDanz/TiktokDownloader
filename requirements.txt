@@ -1,3 +1,4 @@
 requests==2.23.0
 Flask==1.1.1
 beautifulsoup4==4.9.3
+python3 -m pip install -r requirements.txt
